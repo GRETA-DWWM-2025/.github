@@ -1,0 +1,289 @@
+html {
+    background: rgb(0, 0, 0) url(image/image2.jpg) no-repeat right bottom;
+    background-attachment: fixed;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    background-size: 100% auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color:darkorange;
+    height: 100vh;
+}
+
+header {
+    font-size: 1.1em;
+    font-family: "silkscreen" sans-serif;
+    text-align: justify;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-size: 1.5em;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal
+}
+
+h1 {
+    font-weight: 800;
+    text-decoration: underline;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+}
+
+.block{
+    width: calc(100%/4);
+    margin-bottom: 100px;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: auto;
+    align-content: space-around;
+    height: 24px;
+    overflow: hidden;
+}
+
+#Présentation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background: url(image/Image4.jpg) no-repeat center;
+    background-attachment: fixed;
+    background-size: 100% auto;
+    border-radius: 20px;
+    margin: 20px 27% 50px 27%;
+    padding: 30px;
+    font-size: 1.2em;
+}
+
+#Formation {
+    background-image: url(image/Fond.jpg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    padding: 25px;
+    border-radius: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: all 3s ease;
+
+}
+
+#Expériences {
+    background-image: url(image/Fond.jpg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    padding: 25px;
+    border-radius: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: all 3s ease;
+}
+
+#Compétences {
+    background-image: url(image/Fond.jpg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    border-radius: 30px;
+    padding: 25px;
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: all 3s ease;
+}
+
+#Projet {
+    background-image: url(image/Fond.jpg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    padding: 25px;
+    border-radius: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: all 3s ease;
+}
+
+#Contact {
+    background-image: url(image/Fond.jpg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    padding: 25px;
+    border-radius: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: all 3s ease;
+}
+
+#Hobbies {
+    background-image: url(image/Fond.jpg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    padding: 25px;
+    border-radius: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: all 3s ease;
+}
+
+/* Section Animation */
+
+#Formation:hover {
+    /*animation: formation ease-in 3s;*/
+    left: 400px;
+    top: 200px;
+    z-index: 100;
+    transform: scale(1.2);
+    background-image: url(image/image4.jpg);
+    height: 300px;
+}
+
+#Compétences:hover {
+    left: -400px;
+    top: 200px;
+    z-index: 100;
+    transform: scale(1.2);
+    background-image: url(image/image4.jpg);
+    height: 300px;
+}
+
+#Expériences:hover {
+    top: 200px;
+    z-index: 100;
+    transform: scale(1.2);
+    background-image: url(image/image4.jpg);
+    height: 300px;
+}
+
+#Hobbies:hover {
+    left: -400px;
+    top: -250px;
+    z-index: 100;
+    transform: scale(1.2);
+    background-image: url(image/image4.jpg);
+    height: 200px;
+}
+
+#Contact:hover {
+    top: -250px;
+    z-index: 100;
+    transform: scale(1.2);
+    background-image: url(image/image4.jpg);
+    height: 200px;
+}
+
+#Projet:hover {
+    left: 400px;
+    top: -250px;
+    z-index: 100;
+    transform: scale(1.2);
+    background-image: url(image/image4.jpg);
+    height: 200px;
+}
+
+/* Fin des animations */
+
+ul {
+    list-style: none;
+}
+
+button {
+    background-image: url(image/Fond.jpg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    border-radius: 20px;
+    font-size: 1.2em;
+    color: antiquewhite;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal
+}
+
+
+#lienbouton {
+    display: flex;
+    justify-content: center;
+}
+
+button:hover {
+    opacity: 0.7;
+    transform: translateY(10px);
+    background: rgb(222, 152, 0);
+    background: radial-gradient(circle, rgb(222, 152, 0) 0%, rgba(0,0,0,1) 100%);
+}
+
+footer {
+    text-align: right;
+}
+
+h2 {
+    color: rgb(209, 45, 45);
+}
+
+a:visited {
+    color: darkorange;
+}
+
+a:hover {
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: none;
+}
+
+@media screen and (max-width: 768px) {
+    main {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .block {
+      width: 90%;
+      margin-bottom: 30px;
+    }
+  
+    #Présentation {
+      margin: 10px;
+      padding: 20px;
+    }
+  
+    button {
+      margin: 50px auto;
+      width: 80%;
+      padding: 15px 30px;
+    }
+  
+    h1 {
+      font-size: 1.5em;
+    }
+  
+    h2 {
+      font-size: 1.2em;
+    }
+  
+    p, li {
+      font-size: 1em;
+    }
+  }
+  
