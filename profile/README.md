@@ -10,9 +10,9 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 
 
 ## Site CV (Avril 2025) 
-![Badge](https://cdn-icons-png.flaticon.com/128/15713/15713436.png)
-![Badge](https://cdn-icons-png.flaticon.com/128/174/174854.png)
-![badge](https://cdn-icons-png.flaticon.com/128/732/732190.png)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Objectif** : Développer un site internet CV.
 
@@ -22,9 +22,8 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 # [Lien GitHub du projet]()
 
 
-| Nom           |     Prénom      |Linkedin|        GitHub  | Site                                                  |
-|:------------: | :-------------: |:----:  |:-------------:   | :---:                                                 |
-
+| Nom           |     Prénom      |Linkedin|        GitHub      | Site                                                  |
+|:------------: | :-------------: |:----:  |:-------------:     | :---:                                                 |
 | Moreau        |     Alexis      |[Profil LinkedIn](https://www.linkedin.com/in/alexismoreau37/)|[Lien GitHub](https://github.com/Alx-370)|[Mon CV en ligne](https://alexis-moreau.fr/Index.html)|
 
 # Présentation 
