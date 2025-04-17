@@ -1,52 +1,30 @@
 
-# Formation DWWM 2025
+# Alexandre Dulon 
+![profile](https://avatars.githubusercontent.com/u/43493262?v=4&size=150)  
 
-# Alexandre Dulon
-vous pouver consulter mon linkedin
-[Linkedin](https://www.linkedin.com/in/alexandre-dulon-8777901a0/) 
-[gitHub](https://github.com/norstroph)
 
-[Cv](../Cv_alexandredu.pdf)
+Actuellement en formation de développeur web/mobile, je suis curieux et motivé à apprendre de nouvelles technologies.
 
 
 
-# Formation DWWM
+## 📄Projets : 
 
-|   Nom   |  Prénom   |                           GitHub                            |                          Site                          |                    CV                    |                                          Linkedin                                          |
-|:-------:|:---------:|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
-| DELSOL  | Alexandre | [![gitHub](logo/github.png)](https://github.com/Alexandredelsol) | [![site](logo/site.png)](https://alexandredelsol.github.io/) | [![CV](logo/CV.png)](medias/CVAlexandreDELSOL.pdf) |  [![linkdin](logo/linkdin.png)](https://www.linkedin.com/in/alexandre-delsol-66530035b/)   |
+ [mon gitsite](https://norstroph.github.io/portfolio/)
 
 
-# Killian Bastard-Lahoreau
- Développeur Web et Web mobile  
-[mon Linkedin](www.linkedin.com/in/killianBastardLahoreau)  
-[mon CV](../CVkillian.pdf)  
-[compte GitHub](https://github.com/Killian-bl)
-
-# Fichier profile
+## 🛠️Competances :
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
-## Projet git
-![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
-![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
-![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
-![badge](https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=white&color=%234169E1)
-![badge](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=white&color=%232496ED)
-![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
-![badge](https://img.shields.io/badge/D3js-white?logo=d3&logoColor=white&color=%23F9A03C)
-![badge](https://img.shields.io/badge/JSON-white?logo=json&logoColor=white&color=%23000000)
-
-Mariam
-[LinkedIn](https://www.linkedin.com/in/mariam-nzeyimana/)
-[github](https://github.com/MariamNze)
-
-![profile](https://avatars.githubusercontent.com/u/206724389?s=96&v=4)
-
-![badge](https://img.shields.io/badge/linkedin-white?logo=json&logoColor=white&color=%23000000)
 
 
-greta
-yousra 
-https://www.linkedin.com/in/yousra-lahdar-53507635b/
-https://github.com/Yousra-Lahdar
 
+
+## 🔗Liens :
+
+[<img style="margin-right: 30px" src="logo/github.png"  width=120>](https://github.com/norstroph)
+[<img style="margin-right: 30px" src="logo/linkdin.png"  width=120>](https://www.linkedin.com/in/alexandre-dulon-8777901a0/)
+[<img style="margin-right: 30px" src="logo/CV.png"  width=120>](../cv/Cv_alexandredu.pdf)
