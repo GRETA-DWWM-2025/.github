@@ -22,7 +22,7 @@
 ![badge](https://img.shields.io/badge/D3js-white?logo=d3&logoColor=white&color=%23F9A03C)
 ![badge](https://img.shields.io/badge/JSON-white?logo=json&logoColor=white&color=%23000000)
 
-## 🔗 Liens :
+## 🔗 Liens
 
 *Veuillez trouver ci-joint les informations sur mon LinkedIn, mon CV ainsi que mon GitHub :* 
 
