@@ -104,6 +104,15 @@ mes infos
 ![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
 ![badge](https://img.shields.io/badge/D3js-white?logo=d3&logoColor=white&color=%23F9A03C)
 ![badge](https://img.shields.io/badge/JSON-white?logo=json&logoColor=white&color=%23000000)
+*Je suis Yusuf Karaca, 24 ans, futur développeur web et web mobile certifié par le GRETA Centre Val de Loire, Veuillez trouver ci-joint les informations sur mon LinkedIn ainsi que mon GitHub :* 
+
+- [**LinkedIn**](https://www.linkedin.com/in/karacayif/)
+- [**GitHub**](https://github.com/GRETA-DWWM-2025/.github/tree/CV-Yusuf/profile)
+
+|   Nom   |  Prénom   |                           GitHub                            |                          Site                          |                    CV                    |                                          Linkedin                                          |
+|:-------:|:---------:|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
+| Karaca  | Yusuf | | | | |
+
 
 Mariam
 [LinkedIn](https://www.linkedin.com/in/mariam-nzeyimana/)
