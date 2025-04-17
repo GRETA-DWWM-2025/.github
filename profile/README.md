@@ -1,5 +1,5 @@
 # Saïd CHEBBI
-![avatar](https://avatars.githubusercontent.com/u/192709338?s=96&v=4)
+<img width="150px" src="said.jpg" />
 
 Fort d’un parcours riche en expériences variées, incluant la création de mon entreprise, j’ai
 choisi de me réorienter vers le métier qui me passionne : le développement web.
@@ -26,8 +26,5 @@ Projet à venir
 ## 🔗Liens :
 <a href="https://github.com/ChebbiS"><img src="./logo/github.png" alt="Github" width="120px"/></a>
 <a href="https://www.linkedin.com/in/saidchebbi/"><img src="./logo/linkdin.png" alt="LinkedIn" width="120px"/></a>
-<hr>
-
-<a href="https://chebbis.github.io/CV/"><img src="./medias/carte_said.png" alt="CV" width="500px"/></a>
-
+<a href="https://github.com/GRETA-DWWM-2025/.github/blob/master/profile/medias/CV_Sa%C3%AFdChebbi.pdf"><img src="./logo/CV.png" width="120px"/></a>
 
