@@ -1,4 +1,21 @@
 
+# Alexandre DELSOL
+<img width=150px src="./CVAlex.png" style="border-radius: 50%;">
+
+Je suis passionné de develppement web. Je suis motivé à coder.
+## 📄Projets :
+<a href="https://alexandredelsol.github.io/">Mon cv version html</a>
+
+## 🛠️Compétences :
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+## 🔗Liens :
+
+<a href="https://github.com/Alexandredelsol"><img width=120px src="github.png"></a>
+<a href="https://www.linkedin.com/in/alexandre-delsol-66530035b/"><img width=120px src="linkedin.png"></a>
+<a href="medias/CVAlexandreDELSOL.pdf"><img width=120px src="cv.png"></a>
+
 # Alexis Moreau
 <img src= "https://alexis-moreau.fr/img/PhotoAlexis.jpg" width="150" style="border-radius: 50%;"/>
 
