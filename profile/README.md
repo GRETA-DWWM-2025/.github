@@ -75,6 +75,8 @@ Projet à venir
 ## 🔗Liens :
 <a href="https://github.com/ChebbiS"><img src="./logo/github.png" alt="Github" width="120px"/></a>
 <a href="https://www.linkedin.com/in/saidchebbi/"><img src="./logo/linkdin.png" alt="LinkedIn" width="120px"/></a>
+<a href="./medias/CV_SaidChebbi.pdf"><img src="./logo/CV.png" alt="CV" width="120px"/></a>
+
 <hr>
 
 <a href="https://chebbis.github.io/CV/"><img src="./medias/carte_said.png" alt="CV" width="500px"/></a>
