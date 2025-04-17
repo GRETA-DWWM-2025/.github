@@ -6,4 +6,4 @@ build-passing-brightgreen
 *Je suis Yusuf Karaca, 24 ans, futur développeur web et web mobile certifié par le GRETA Centre Val de Loire, Veuillez trouver ci-joint les informations sur mon LinkedIn ainsi que mon GitHub :* 
 
 - [<ins>**LinkedIn**</ins>](https://www.linkedin.com/in/karacayif/)
-- <ins>**GitHub**</ins>(https://github.com/GRETA-DWWM-2025/.github/tree/CV-Yusuf/profile)
+- [<ins>**GitHub**</ins>](https://github.com/GRETA-DWWM-2025/.github/tree/CV-Yusuf/profile)
