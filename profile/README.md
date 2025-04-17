@@ -3,7 +3,7 @@
 
 ## Yusuf Karaca 
 
-<img src="https://avatars.githubusercontent.com/u/183368494?v=4" width = 150px height = 150px  style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/183368494?v=4" width = 150px height = 150px  style="border-radius: 50%">
 
 
 *Je suis Yusuf Karaca, 24 ans, futur développeur web et web mobile certifié par le GRETA Centre Val de Loire.*
