@@ -31,20 +31,20 @@ Je suis déterminé et motivé à mettre en pratique mes connaissances dans un c
 
 En raison de mon intérêt pour les langages de programmation, je suis constamment motivé à apprendre et à m'impliquer dans des projets visant à développer mes compétences.</p>
 
-## Projets
+## 📄Projets :
 
 <ul>
 	<li><a href="https://alexis-moreau.fr/Index.html" target="_blank">Projet site CV</a></li>
 	<li>Projet à venir</li>
 </ul>
 
-## Compétences
+## 🛠️Compérences :
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-## Liens
+## 🔗Liens :
 
 <a href="https://github.com/Alx-370"><img width=120px src="github.png"></a>
 <a href="https://www.linkedin.com/in/alexismoreau37/"><img width=120px src="linkedin.png"></a>
