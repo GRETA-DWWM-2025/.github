@@ -1,4 +1,4 @@
-# Alexis Moreau
+# :-----: [Alexis Moreau](www.linkedin.com/in/alexismoreau37)
 
 
 # [Mon CV en ligne](https://alexis-moreau.fr/Index.html)
@@ -9,12 +9,10 @@
 Liste des projets réalisés par les étudiants de la formation [DWWM](https://gretaformation.ac-orleans-tours.fr/formation/titre-professionnel-developpeur-web-et-web-mobile) à [MAME](https://mame-tours.com/).
 
 
-## Site CV (Janvier 2025) 
+## Site CV (Avril 2025) 
 ![Badge](https://cdn-icons-png.flaticon.com/128/15713/15713436.png)
-![Badge]
-![badge]
-![badge]
-![badge]
+![Badge](https://cdn-icons-png.flaticon.com/128/174/174854.png)
+![badge](https://cdn-icons-png.flaticon.com/128/732/732190.png)
 
 **Objectif** : Développer un site internet CV.
 
