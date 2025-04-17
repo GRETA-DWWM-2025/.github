@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a3e41d-914b-416f-b968-e3ef65397a93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/profile/logo/CV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile/logo/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile/logo/linkdin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile/logo/site.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CVAlexandreDELSOL.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/profile/medias/CVAlexandreDELSOL.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/profile/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
@@ -31,7 +26,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1744728684" />
+                    <option name="lastUsedInstant" value="1744880587" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="tableau" />
+                    <option name="lastUsedInstant" value="1744880410" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="delsol" />
@@ -58,7 +57,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;delsol&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -102,7 +101,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="delsol" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
