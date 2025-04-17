@@ -24,6 +24,7 @@ vous pouver consulter mon linkedin
 [compte GitHub](https://github.com/Killian-bl)
 
 # Fichier profile
+mes info
 
 
 ## Projet git
