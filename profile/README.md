@@ -4,21 +4,17 @@
 Je suis actuellement en reconversion depuis mars 2025 afin de devenir développeur web.
 ## 📄Projets :
 <a href="../CVhtml/Index.html">Mon cv version html</a>
+
 ## 🛠️Compérences :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ## 🔗Liens : 
-<div>
-<style type="text/css">
-    .icone {
-        width: 100px
-    }
-</style>
-<a href="https://github.com/Killian-bl"><img class="icone" src="github.png"></a>
-<a href="https://www.linkedin.com/in/killianbastardlahoreau/"><img class="icone" src="linkedin.png"></a>
-<a href="../CVkillian.pdf"><img class="icone" src="cv.png"></a>
-</div>
+
+<a href="https://github.com/Killian-bl"><img width=120px src="github.png"></a>
+<a href="https://www.linkedin.com/in/killianbastardlahoreau/"><img width=120px src="linkedin.png"></a>
+<a href="../CVkillian.pdf"><img width=120px src="cv.png"></a>
+
 
 # Fichier profile
 
