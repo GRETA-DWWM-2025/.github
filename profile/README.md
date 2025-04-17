@@ -1,94 +1,32 @@
-# [Alexis Moreau](https://www.linkedin.com/in/alexismoreau37/)
+# Alexis Moreau
+<img src= "https://alexis-moreau.fr/img/PhotoAlexis.jpg" width="150"/>
 
+<br>
+<p>Je m'appelle Alexis Moreau, j'ai 33 ans et je vis à Tours (37)
 
-# [Mon CV en ligne](https://alexis-moreau.fr/Index.html)
+Je suis passionné par le domaine du numérique et je suis en train de suivre une formation de développeur web et web mobile au GRETA Centre Val De Loire pour obtenir un titre professionnel Bac +2.
 
+Je suis déterminé et motivé à mettre en pratique mes connaissances dans un cadre professionnel.
 
-# Formation Développeur web et web mobile 2025-2026
+En raison de mon intérêt pour les langages de programmation, je suis constamment motivé à apprendre et à m'impliquer dans des projets visant à développer mes compétences.</p>
 
-Liste des projets réalisés par les étudiants de la formation [DWWM](https://gretaformation.ac-orleans-tours.fr/formation/titre-professionnel-developpeur-web-et-web-mobile) à [MAME](https://mame-tours.com/).
+## Projets
 
+<ul>
+	<li><a href="https://alexis-moreau.fr/Index.html" target="_blank">Projet site CV</a></li>
+	<li>Projet à venir</li>
+</ul>
 
-## Site CV (Avril 2025) 
+## Compétences
+
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Objectif** : Développer un site internet CV.
 
-**Description** : Le site CV a été conçu et développé entièrement avec HTML5 et CSS3, en mettant l’accent sur la simplicité, la lisibilité et le responsive design.
+<a href="https://github.com/Alx-370" target="_blank"><img alt="Lien GitHub" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="50">Lien page GitHub</a>
 
-# [Lien du site CV](https://alexis-moreau.fr/Index.html)
-# [Lien GitHub du projet]()
+<a href="https://github.com/Alx-370" target="_blank"><img alt="Lien LinkedIn" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="50">Lien page LinkedIn</a>
 
-
-| Nom           |     Prénom      |Linkedin|        GitHub      | Site                                                  |
-|:------------: | :-------------: |:----:  |:-------------:     | :---:                                                 |
-| Moreau        |     Alexis      |[Profil LinkedIn](https://www.linkedin.com/in/alexismoreau37/)|[Lien GitHub](https://github.com/Alx-370)|[Mon CV en ligne](https://alexis-moreau.fr/Index.html)|
-
-# Présentation 
-
-### Saïd CHEBBI <br>
-Jeune développeur web et web mobile en formation au sein du GRETA Centre Val de loire. <br>
-Voici ci dessous le lien pour accéder à mon Linkedin :<br> [LinkedIn](https://www.linkedin.com/in/saidchebbi/)<br>
-Vous pouvez également me retrouver sur Github juste ici :<br> [Github](https://github.com/ChebbiS)<br>
-Voici ci-joint mon CV en pdf :<br>
-[CV](../CV_SaïdChebbi.pdf)  
-![Avatar](https://avatars.githubusercontent.com/u/192709338?s=96&v=4)
-
-
-# Formation DWWM 2025
-
-# Alexandre Dulon
-vous pouver consulter mon linkedin
-[Linkedin](https://www.linkedin.com/in/alexandre-dulon-8777901a0/) 
-[gitHub](https://github.com/norstroph)
-
-[Cv](../Cv_alexandredu.pdf)
-
-
-
-# Formation DWWM
-
-|   Nom   |  Prénom   |                           GitHub                            |                          Site                          |                    CV                    |                                          Linkedin                                          |
-|:-------:|:---------:|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
-| DELSOL  | Alexandre | [![gitHub](logo/github.png)](https://github.com/Alexandredelsol) | [![site](logo/site.png)](https://alexandredelsol.github.io/) | [![CV](logo/CV.png)](medias/CVAlexandreDELSOL.pdf) |  [![linkdin](logo/linkdin.png)](https://www.linkedin.com/in/alexandre-delsol-66530035b/)   |
-
-
-# Killian Bastard-Lahoreau
-![profil](https://avatars.githubusercontent.com/u/207696198?s=96&v=4)
-## Développeur Web et Web mobile  
-[mon Linkedin](www.linkedin.com/in/killianBastardLahoreau)  
-[mon CV](../CVkillian.pdf)  
-[compte GitHub](https://github.com/Killian-bl)
-
-# Fichier profile
-mes info
-
-
-## Projet git
-![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
-![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
-![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
-![badge](https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=white&color=%234169E1)
-![badge](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=white&color=%232496ED)
-![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
-![badge](https://img.shields.io/badge/D3js-white?logo=d3&logoColor=white&color=%23F9A03C)
-![badge](https://img.shields.io/badge/JSON-white?logo=json&logoColor=white&color=%23000000)
-
-Mariam
-[LinkedIn](https://www.linkedin.com/in/mariam-nzeyimana/)
-[github](https://github.com/MariamNze)
-
-![profile](https://avatars.githubusercontent.com/u/206724389?s=96&v=4)
-
-![badge](https://img.shields.io/badge/linkedin-white?logo=json&logoColor=white&color=%23000000)
-
-
-greta
-yousra 
-https://www.linkedin.com/in/yousra-lahdar-53507635b/
-https://github.com/Yousra-Lahdar
-
-
+<a href="/profile/CVAlexis_MoreauV3.1.pdf" target="_blank"><img alt="Lien CV" src="https://cdn-icons-png.flaticon.com/128/3135/3135731.png" width="50">Lien CV</a>
 
