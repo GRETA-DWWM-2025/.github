@@ -1,12 +1,13 @@
 
 
 # Killian Bastard-Lahoreau
-![profil](https://avatars.githubusercontent.com/u/207696198?s=96&v=4)  
+<img width=150px src="download.jpeg">
+
 Je suis actuellement en reconversion depuis mars 2025 afin de devenir développeur web.
 ## 📄Projets :
 <a href="../CVhtml/Index.html">Mon cv version html</a>
 
-## 🛠️Compérences :
+## 🛠️Compétences :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
