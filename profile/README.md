@@ -70,7 +70,7 @@ Je suis actuellement en reconversion depuis mars 2025 afin de devenir développe
 <!-- ************************************************************* -->
 
 ## Saïd CHEBBI
-![avatar](https://avatars.githubusercontent.com/u/192709338?s=96&v=4)
+<img src= "https://avatars.githubusercontent.com/u/192709338?s=96&v=4" width="150"/>
 
 Fort d’un parcours riche en expériences variées, incluant la création de mon entreprise, j’ai
 choisi de me réorienter vers le métier qui me passionne : le développement web.
@@ -160,7 +160,7 @@ En raison de mon intérêt pour les langages de programmation, je suis constamme
 ## 🔗 Liens
 
 <a href="https://github.com/Yusuf-Karaca-touraine"><img width=120px src="./medias/github.png"></a>
-<a href="www.linkedin.com/in/karacayif"><img width=120px src="./medias/linkdin.png"></a>
+<a href="https://www.linkedin.com/in/karacayif"><img width=120px src="./medias/linkdin.png"></a>
 <a href="./medias/Yusuf Karaca CV-1.pdf"><img width=120px src="./medias/CV.png"></a>
 
 <!-- ************************************************************* -->
