@@ -1,5 +1,4 @@
 # Formation Développeur Web et Web Mobile du 25 Mars 2025 au 15 Janvier 2026
-![Badge](https://img.shields.io/badge/:badgeContent)
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
 ![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
@@ -15,3 +14,7 @@
 
 - [<ins>**LinkedIn**</ins>](https://www.linkedin.com/in/karacayif/)
 - [<ins>**GitHub**</ins>](https://github.com/GRETA-DWWM-2025/.github/tree/CV-Yusuf/profile)
+
+|   Nom   |  Prénom   |                           GitHub                            |                          Site                          |                    CV                    |                                          Linkedin                                          |
+|:-------:|:---------:|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
+| Karaca  | Yusuf | | | | |
