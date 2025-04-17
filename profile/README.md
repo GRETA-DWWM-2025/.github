@@ -1,4 +1,9 @@
+
+# Saïd CHEBBI
+<img width="150px" src="said.jpg" />
+
 # Formation Développpeur Web et Web Mobile du 25 mars 2025 au 15 janvier 2026
+
 
 ## Yusuf Karaca 
 
@@ -6,6 +11,12 @@
 
 
 *Je suis Yusuf Karaca, 24 ans, futur développeur web et web mobile certifié par le GRETA Centre Val de Loire.*
+
+
+## 🔗Liens :
+<a href="https://github.com/ChebbiS"><img src="./logo/github.png" alt="Github" width="120px"/></a>
+<a href="https://www.linkedin.com/in/saidchebbi/"><img src="./logo/linkdin.png" alt="LinkedIn" width="120px"/></a>
+<a href="https://github.com/GRETA-DWWM-2025/.github/blob/master/profile/medias/CV_Sa%C3%AFdChebbi.pdf"><img src="./logo/CV.png" width="120px"/></a>
 
 ## 📄 Projets :
 *Projets à venir.*
@@ -17,6 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
+
 
 ## 🔗 Liens
 
