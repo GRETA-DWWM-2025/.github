@@ -168,7 +168,6 @@ Mariam
 ![profile](https://avatars.githubusercontent.com/u/206724389?s=96&v=4)
 
 ![badge](https://img.shields.io/badge/linkedin-white?logo=json&logoColor=white&color=%23000000)
->>>>>>> e6abbbc895b76422abf3439a285809eccdefd4e4
 
 
 
