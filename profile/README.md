@@ -20,3 +20,8 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 
 # [Lien du site CV](https://alexis-moreau.fr/Index.html)
 # [Lien GitHub du projet]()
+
+
+| Nom           |     Prénom      |Linkedin|        GitHub  | Site                                                  |
+|:------------: | :-------------: |:----:  |:-------------:   | :---:                                                 |
+| Moreau        |     Alexis      |[Profil LinkedIn](www.linkedin.com/in/alexismoreau37)|[Lien GitHub](https://github.com/Alx-370)|[Mon CV en ligne](https://alexis-moreau.fr/Index.html)|
