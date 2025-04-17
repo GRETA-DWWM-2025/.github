@@ -1,6 +1,6 @@
 
 # Alexis Moreau
-<img src= "https://alexis-moreau.fr/img/PhotoAlexis.jpg" width="150" style="border-radius: 50%;"/>
+<img src= "https://alexis-moreau.fr/img/PhotoAlexis.jpg" width="150" style="border-radius: 50%"/>
 
 
 <br>
