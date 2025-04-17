@@ -73,7 +73,7 @@ vous pouver consulter mon linkedin
 # Killian Bastard-Lahoreau
 ![profil](https://avatars.githubusercontent.com/u/207696198?s=96&v=4)
 ## Développeur Web et Web mobile  
-[mon Linkedin](www.linkedin.com/in/killianBastardLahoreau)  
+[mon Linkedin](https://www.linkedin.com/in/killianbastardlahoreau/)  
 [mon CV](../CVkillian.pdf)  
 [compte GitHub](https://github.com/Killian-bl)
 
