@@ -133,23 +133,15 @@ vous pouver consulter mon linkedin
 # Fichier profile
 mes infos
 
+# Formation Développpeur Web et Web Mobile du 25 mars 2025 au 15 janvier 2026
 
-# Mariam Nzeyimana
-![profile](https://avatars.githubusercontent.com/u/206724389?s=96&v=4)
-
-## Formation Développeur Web & Web Mobile 2025
-
+## Yusuf Karaca 
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
 
-[Mon LinkedIn](https://www.linkedin.com/in/mariam-nzeyimana/)  
-[Mon GitHub](https://github.com/MariamNze)
-
-
-## Yusuf Karaca 
 *Je suis Yusuf Karaca, 24 ans, futur développeur web et web mobile certifié par le GRETA Centre Val de Loire, Veuillez trouver ci-joint les informations sur mon LinkedIn ainsi que mon GitHub :* 
 
 - [**LinkedIn**](https://www.linkedin.com/in/karacayif/)
@@ -157,7 +149,13 @@ mes infos
 
 |   Nom   |  Prénom   |                           GitHub                            |                          Site                          |                    CV                    |                                          Linkedin                                          |
 |:-------:|:---------:|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
+
 | Karaca  | Yusuf | | | | |
+
+# Mariam Nzeyimana
+![profile](https://avatars.githubusercontent.com/u/206724389?s=96&v=4)
+
+## Formation Développeur Web & Web Mobile 2025
 
 
 Mariam
@@ -181,3 +179,4 @@ yousra
 
 
 [CV](https://github.com/GRETA-DWWM-2025/.github/blob/ad4c22fc6f525adfb212bf257745db54564ec296/profile/cv.pdf)
+
