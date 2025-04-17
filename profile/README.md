@@ -1,5 +1,6 @@
 # Fichier profile
 
+
 ## Projet git
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
@@ -18,4 +19,9 @@ Mariam
 
 ![badge](https://img.shields.io/badge/linkedin-white?logo=json&logoColor=white&color=%23000000)
 
+
+greta
+yousra 
+https://www.linkedin.com/in/yousra-lahdar-53507635b/
+https://github.com/Yousra-Lahdar
 
