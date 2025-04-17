@@ -10,7 +10,7 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 
 
 ## Site CV (Janvier 2025) 
-![Badge]
+![Badge](https://cdn-icons-png.flaticon.com/128/15713/15713436.png)
 ![Badge]
 ![badge]
 ![badge]
@@ -18,4 +18,4 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 
 **Objectif** : Développer un site internet CV.
 
-**Description** : Le CV a été conçu et développé entièrement avec HTML5 et CSS3, en mettant l’accent sur la simplicité, la lisibilité et le responsive design.
+**Description** : Le site CV a été conçu et développé entièrement avec HTML5 et CSS3, en mettant l’accent sur la simplicité, la lisibilité et le responsive design.
