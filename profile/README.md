@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 # Alexandre DELSOL
 <img width=150px src="./CVAlex.png">
+=======
+<<<<<<< HEAD
+# Fichier profile
+>>>>>>> master
 
 Je suis passionné de develppement web. Je suis motivé à coder.
 ## 📄Projets :
 <a href="https://alexandredelsol.github.io/">Mon cv version html</a>
 
+<<<<<<< HEAD
 ## 🛠️Compétences :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -244,3 +250,14 @@ En raison de mon intérêt pour les langages de programmation, je suis constamme
 <a href="https://www.linkedin.com/in/alexismoreau37/"><img width=120px src="linkedin.png"></a>
 <a href="/profile/CVAlexis_MoreauV3.1.pdf"><img width=120px src="cv.png"></a>
 
+=======
+CV [Yusuf](medias/Yusuf%20Karaca%20CV-1.pdf)
+=======
+# Présentation 
+
+### Saïd CHEBBI <br>
+Jeune développeur web et web mobile en formation au sein du GRETA Centre Val de loire. <br>
+Voici ci dessous le lien pour accéder à mon Linkedin :<br> [LinkedIn](https://www.linkedin.com/in/saidchebbi/)<br>
+Vous pouvez également me retrouver sur Github juste ici :<br> [Github](https://github.com/ChebbiS)
+>>>>>>> saidcv
+>>>>>>> master
