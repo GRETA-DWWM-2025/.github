@@ -66,9 +66,9 @@ vous pouver consulter mon linkedin
 
 # Formation DWWM
 
-|   Nom   |  Prénom   |                           GitHub                            |                          Site                          |                    CV                    |                                          Linkedin                                          |
-|:-------:|:---------:|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
-| DELSOL  | Alexandre | [![gitHub](logo/github.png)](https://github.com/Alexandredelsol) | [![site](logo/site.png)](https://alexandredelsol.github.io/) | [![CV](logo/CV.png)](medias/CVAlexandreDELSOL.pdf) |  [![linkdin](logo/linkdin.png)](https://www.linkedin.com/in/alexandre-delsol-66530035b/)   |
+|   Nom   |  Prénom   |                                           GitHub                                            |                                                 Site                                                  |                                              CV                                               |                                                            Linkedin                                                             |
+|:-------:|:---------:|:-------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+| DELSOL  | Alexandre |  <a href="https://github.com/Alexandredelsol"><img src="logo/github.png" width="40px" height="auto"></a>| <a href="https://alexandredelsol.github.io/"><img src="logo/site.png" width="40px" height="auto"></a> | <a href="medias/CVAlexandreDELSOL.pdf"><img src="logo/CV.png" width="40px" height="auto"></a> | <a href="https://www.linkedin.com/in/alexandre-delsol-66530035b/"><img src="./logo/linkdin.png" width="40px" height="auto"></a> |
 
 
 # Killian Bastard-Lahoreau
