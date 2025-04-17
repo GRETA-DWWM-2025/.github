@@ -194,7 +194,7 @@ Je m'appelle **Tristan Martin** et je suis actuellement en reconversion professi
 <a href="../CVTristanMartin.pdf"><img width=120px src="./logo/CV.png"></a>
 
 # Killian Bastard-Lahoreau
-<img width=150px src="download.jpeg">
+<img width=150px src="download.jpeg" style="border-radius:50%;">
 
 Je suis actuellement en reconversion depuis mars 2025 afin de devenir développeur web.
 ## 📄Projets :
