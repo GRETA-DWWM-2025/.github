@@ -1,5 +1,60 @@
 
 
+# Présentation
+
+## 👋 Bonjour !
+
+Je m'appelle **Tristan Martin** et je suis actuellement en reconversion professionnelle pour un **BAC+2 Dev Web** au **Greta Centre Val de Loire**. Passionné par l'informatique et les nouvelles technologies, je suis motivé à apprendre et à évoluer dans le domaine du développement.
+
+## 🎓 Formation
+
+- **Mars 2025 - Janvier 2026** : BAC+2 Developpeur web & web mobile — Greta Centre Val de Loire
+- Cours suivis : JavaScript, ReactJS, Java, SpringBoot, SQL.
+
+## 🛠️ Compétences
+
+- **Langages :**  CSS, JavaScript, Java, TypeScript.
+- **Frameworks :** Angular, ReactJS, SpringBoot.
+- **Outils :** Git, VS Code, IntelliJ IDEA, Docker.
+
+## 📄 Projets personnels réalisés
+
+### CV Numérique
+
+Réalisation d’un **CV professionnel** en format numérique. Vous pouvez le visualiser en [cliquant ici](https://trqr.github.io/CVFormation/):
+
+- Présentation claire et structurée
+- Fait sur mesure
+- Mise en page intéractive et amusante
+
+### Site e-commerce
+
+Création d'un **site e-commerce** sur des produits de création artistique. Technologies utilisées:
+
+- **Front-end**: Angular 17.
+- **Database**: Docker compose, mariadb.    
+- **Back-end**: Spring boot, JDK 24.
+
+#### [GitHub](https://github.com/trqr)
+
+## 🚀 Objectifs
+
+- Approfondir mes connaissances en développement web et mobile
+- Travailler sur des projets concrets pour renforcer mes compétences
+- Intégrer une entreprise pour un stage de 2 mois en septembre
+
+## 📫 Me contacter
+
+- **Email :** tristanqr@gmail.com
+- **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/tmartin1989/)
+
+- **Mon CV :** [CV](../CVTristanMartin.pdf)
+
+
+# Formation Développeur Web et Web Mobile du 25 Mars 2025 au 15 Janvier 2026
+
+
+
 # 📘 Présentation
 Je m'appelle Jason, j'ai 20 ans, je suis en reconversion professionnelle.Je prépare un titre professionnel développeur web et web mobile.<br>
 # 🗂️ Mes projets
@@ -25,9 +80,9 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 
 
 ## Site CV (Avril 2025) 
-![Badge](https://cdn-icons-png.flaticon.com/128/15713/15713436.png)
-![Badge](https://cdn-icons-png.flaticon.com/128/174/174854.png)
-![badge](https://cdn-icons-png.flaticon.com/128/732/732190.png)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Objectif** : Développer un site internet CV.
 
@@ -37,9 +92,8 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 # [Lien GitHub du projet]()
 
 
-| Nom           |     Prénom      |Linkedin|        GitHub  | Site                                                  |
-|:------------: | :-------------: |:----:  |:-------------:   | :---:                                                 |
-
+| Nom           |     Prénom      |Linkedin|        GitHub      | Site                                                  |
+|:------------: | :-------------: |:----:  |:-------------:     | :---:                                                 |
 | Moreau        |     Alexis      |[Profil LinkedIn](https://www.linkedin.com/in/alexismoreau37/)|[Lien GitHub](https://github.com/Alx-370)|[Mon CV en ligne](https://alexis-moreau.fr/Index.html)|
 
 # Présentation 
@@ -74,7 +128,7 @@ vous pouver consulter mon linkedin
 # Killian Bastard-Lahoreau
 ![profil](https://avatars.githubusercontent.com/u/207696198?s=96&v=4)
 ## Développeur Web et Web mobile  
-[mon Linkedin](www.linkedin.com/in/killianBastardLahoreau)  
+[mon Linkedin](https://www.linkedin.com/in/killianbastardlahoreau/)  
 [mon CV](../CVkillian.pdf)  
 [compte GitHub](https://github.com/Killian-bl)
 
@@ -83,6 +137,7 @@ mes infos
 
 
 ## Projet git
+
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
 ![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
@@ -91,6 +146,19 @@ mes infos
 ![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
 ![badge](https://img.shields.io/badge/D3js-white?logo=d3&logoColor=white&color=%23F9A03C)
 ![badge](https://img.shields.io/badge/JSON-white?logo=json&logoColor=white&color=%23000000)
+
+
+
+## Yusuf Karaca 
+*Je suis Yusuf Karaca, 24 ans, futur développeur web et web mobile certifié par le GRETA Centre Val de Loire, Veuillez trouver ci-joint les informations sur mon LinkedIn ainsi que mon GitHub :* 
+
+- [**LinkedIn**](https://www.linkedin.com/in/karacayif/)
+- [**GitHub**](https://github.com/GRETA-DWWM-2025/.github/tree/CV-Yusuf/profile)
+
+|   Nom   |  Prénom   |                           GitHub                            |                          Site                          |                    CV                    |                                          Linkedin                                          |
+|:-------:|:---------:|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
+| Karaca  | Yusuf | | | | |
+
 
 Mariam
 [LinkedIn](https://www.linkedin.com/in/mariam-nzeyimana/)
@@ -111,8 +179,5 @@ yousra
 
 
 
+
 [CV](https://github.com/GRETA-DWWM-2025/.github/blob/ad4c22fc6f525adfb212bf257745db54564ec296/profile/cv.pdf)
-=======
-
-
-
