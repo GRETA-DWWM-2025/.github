@@ -1,7 +1,7 @@
 
 
 # Killian Bastard-Lahoreau
-<img width=150px src="download.jpeg" style="border-radius:50%;">
+<img width=150px src="download.jpeg" style="border-radius:50%">
 
 Je suis actuellement en reconversion depuis mars 2025 afin de devenir développeur web.
 ## 📄Projets :
