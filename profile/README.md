@@ -1,4 +1,4 @@
-# :-----: [Alexis Moreau](www.linkedin.com/in/alexismoreau37)
+# [Alexis Moreau](www.linkedin.com/in/alexismoreau37)
 
 
 # [Mon CV en ligne](https://alexis-moreau.fr/Index.html)
@@ -17,3 +17,6 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 **Objectif** : Développer un site internet CV.
 
 **Description** : Le site CV a été conçu et développé entièrement avec HTML5 et CSS3, en mettant l’accent sur la simplicité, la lisibilité et le responsive design.
+
+# [Lien du site CV](https://alexis-moreau.fr/Index.html)
+# [Lien GitHub du projet]()
