@@ -2,6 +2,7 @@
 # Alexis Moreau
 <img src= "https://alexis-moreau.fr/img/PhotoAlexis.jpg" width="150"/>
 
+
 <br>
 <p>Je m'appelle Alexis Moreau, j'ai 33 ans et je vis à Tours (37)
 
@@ -29,5 +30,4 @@ En raison de mon intérêt pour les langages de programmation, je suis constamme
 <a href="https://github.com/Alx-370"><img width=120px src="github.png"></a>
 <a href="https://www.linkedin.com/in/alexismoreau37/"><img width=120px src="linkedin.png"></a>
 <a href="/profile/CVAlexis_MoreauV3.1.pdf"><img width=120px src="cv.png"></a>
-
 
