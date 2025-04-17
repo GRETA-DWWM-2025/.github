@@ -1,5 +1,17 @@
 
+# LAHDAR Yousra
+<img width=150px src="logo/logo.png">
+  
+Je suis actuellement en reconversion depuis mars 2025 afin de devenir développeur web.
+## 📄Projets :
+<a href="../../Documents/ cv-yousra/cv1.html">Mon cv version html</a>
 
+
+## 🛠️Compétences :
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+## 🔗Liens : 
 
 # Killian Bastard-Lahoreau
 <img width=150px src="download.jpeg">
@@ -58,9 +70,10 @@ Je suis passionné de develppement web. Je suis motivé à coder.
 
 Je suis passionné par le domaine du numérique et je suis en train de suivre une formation de développeur web et web mobile au GRETA Centre Val De Loire pour obtenir un titre professionnel Bac +2.
 
-Je suis déterminé et motivé à mettre en pratique mes connaissances dans un cadre professionnel.
 
-En raison de mon intérêt pour les langages de programmation, je suis constamment motivé à apprendre et à m'impliquer dans des projets visant à développer mes compétences.</p>
+<a href="https://github.com/Yousra-Lahdar"><img width=120px src="logo/github.png"></a>
+
+<a href="https://www.linkedin.com/in/yousra-lahdar-53507635b/"><img width=120px src="logo/linkdin.png"></a>
 
 ## 📄Projets :
 
@@ -79,6 +92,7 @@ En raison de mon intérêt pour les langages de programmation, je suis constamme
 
 <a href="https://github.com/Alx-370"><img width=120px src="github.png"></a>
 <a href="https://www.linkedin.com/in/alexismoreau37/"><img width=120px src="linkedin.png"></a>
+<a href="/profile/CVAlexis_MoreauV3.1.pdf"><img width=120px src="cv.png"></a
 <a href="/profile/CVAlexis_MoreauV3.1.pdf"><img width=120px src="cv.png"></a>
 
 
