@@ -7,7 +7,7 @@
 Je suis passionné de develppement web. En reconversion depuis mars 2025, Je suis motivé à coder.
 
 ## 📄Projets :
-<a href="https://alexandredelsol.github.io/">Mon cv version html</a>
+<a href="../CVhtml/Index.html">Mon cv version html</a>
 
 ## 🛠️Compétences :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
