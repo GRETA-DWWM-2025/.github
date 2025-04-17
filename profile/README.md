@@ -1,5 +1,8 @@
+
 # Alexis Moreau
 <img src= "https://alexis-moreau.fr/img/PhotoAlexis.jpg" width="150"/>
+# [Alexis Moreau](https://www.linkedin.com/in/alexismoreau37/)
+
 
 <br>
 <p>Je m'appelle Alexis Moreau, j'ai 33 ans et je vis à Tours (37)
@@ -22,11 +25,3 @@ En raison de mon intérêt pour les langages de programmation, je suis constamme
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-<a href="https://github.com/Alx-370" target="_blank"><img alt="Lien GitHub" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="50">Lien page GitHub</a>
-
-<a href="https://github.com/Alx-370" target="_blank"><img alt="Lien LinkedIn" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="50">Lien page LinkedIn</a>
-
-<a href="/profile/CVAlexis_MoreauV3.1.pdf" target="_blank"><img alt="Lien CV" src="https://cdn-icons-png.flaticon.com/128/3135/3135731.png" width="50">Lien CV</a>
-
