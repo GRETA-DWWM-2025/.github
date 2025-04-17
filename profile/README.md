@@ -1,2 +1,3 @@
 # Fichier profile
+mes info
 
