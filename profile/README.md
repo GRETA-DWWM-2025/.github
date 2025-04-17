@@ -1,6 +1,6 @@
 
 # Jason PERRAULT:
-<img src="https://avatars.githubusercontent.com/u/205364363?v=4" height="150px" style="border-radius:50%">
+<img src="https://avatars.githubusercontent.com/u/205364363?v=4" height="150px">
 
 ## Paragraphe de présentation:
 Je m'appelle Jason, j'ai 20 ans, je suis en reconversion professionnelle.Je prépare un titre professionnel développeur web et web mobile.
