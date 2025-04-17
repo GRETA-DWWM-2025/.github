@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a3e41d-914b-416f-b968-e3ef65397a93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/profile/logo/CV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile/logo/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile/logo/linkdin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile/logo/site.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CVAlexandreDELSOL.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/profile/medias/CVAlexandreDELSOL.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profile/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/profile/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,9 +14,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="figma2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="branchesCleanupHistory">
+      <BranchesCleanupHistory>
+        <option name="history">
+          <list>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="afd6dccbcc7097b27f3e3e5b0f49724afba2009a" />
+                    <option name="name" value="tableau" />
+                  </BranchDeletion>
+                  <BranchDeletion>
+                    <option name="hash" value="a90af22d0eb6efcfe8d08a01bc418949e49eee2e" />
+                    <option name="name" value="figma" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1744892605913" />
+            </BranchCleanupEntry>
+          </list>
+        </option>
+      </BranchesCleanupHistory>
+    </option>
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -30,8 +53,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1744728684" />
+                    <option name="branchName" value="figma3" />
+                    <option name="lastUsedInstant" value="1744893007" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="figma2" />
+                    <option name="lastUsedInstant" value="1744892432" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="delsol" />
@@ -54,19 +81,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;delsol&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "figma3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/profile/logo" />
