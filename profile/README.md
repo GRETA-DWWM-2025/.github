@@ -1,5 +1,4 @@
-
-# [Alexis Moreau](www.linkedin.com/in/alexismoreau37)
+# [Alexis Moreau](https://www.linkedin.com/in/alexismoreau37/)
 
 
 # [Mon CV en ligne](https://alexis-moreau.fr/Index.html)
@@ -25,8 +24,8 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 
 | Nom           |     Prénom      |Linkedin|        GitHub  | Site                                                  |
 |:------------: | :-------------: |:----:  |:-------------:   | :---:                                                 |
-| Moreau        |     Alexis      |[Profil LinkedIn](www.linkedin.com/in/alexismoreau37)|[Lien GitHub](https://github.com/Alx-370)|[Mon CV en ligne](https://alexis-moreau.fr/Index.html)|
 
+| Moreau        |     Alexis      |[Profil LinkedIn](https://www.linkedin.com/in/alexismoreau37/)|[Lien GitHub](https://github.com/Alx-370)|[Mon CV en ligne](https://alexis-moreau.fr/Index.html)|
 
 # Présentation 
 
@@ -91,5 +90,6 @@ greta
 yousra 
 https://www.linkedin.com/in/yousra-lahdar-53507635b/
 https://github.com/Yousra-Lahdar
+
 
 
