@@ -1,55 +1,27 @@
 
 
-# Présentation
+# Tristan Martin
+<img width=150px src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_1280.png">
 
-## 👋 Bonjour !
+Je m'appelle **Tristan Martin** et je suis actuellement en reconversion professionnelle. Passionné par l'informatique et les nouvelles technologies, je suis motivé à apprendre et à évoluer dans le domaine du développement.
 
-Je m'appelle **Tristan Martin** et je suis actuellement en reconversion professionnelle pour un **BAC+2 Dev Web** au **Greta Centre Val de Loire**. Passionné par l'informatique et les nouvelles technologies, je suis motivé à apprendre et à évoluer dans le domaine du développement.
+## 📄 Projets
 
-## 🎓 Formation
-
-- **Mars 2025 - Janvier 2026** : BAC+2 Developpeur web & web mobile — Greta Centre Val de Loire
-- Cours suivis : JavaScript, ReactJS, Java, SpringBoot, SQL.
+- Réalisation d’un **CV professionnel** : [lien](https://trqr.github.io/CVFormation/).
+- Création site e-commerce [Crafty Store](https://trqr.github.io/CVFormation/).
 
 ## 🛠️ Compétences
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+<img height="20px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+<img height="20px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img height="20px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img height="20px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 
-- **Langages :**  CSS, JavaScript, Java, TypeScript.
-- **Frameworks :** Angular, ReactJS, SpringBoot.
-- **Outils :** Git, VS Code, IntelliJ IDEA, Docker.
+## 🔗 Liens
 
-## 📄 Projets personnels réalisés
-
-### CV Numérique
-
-Réalisation d’un **CV professionnel** en format numérique. Vous pouvez le visualiser en [cliquant ici](https://trqr.github.io/CVFormation/):
-
-- Présentation claire et structurée
-- Fait sur mesure
-- Mise en page intéractive et amusante
-
-### Site e-commerce
-
-Création d'un **site e-commerce** sur des produits de création artistique. Technologies utilisées:
-
-- **Front-end**: Angular 17.
-- **Database**: Docker compose, mariadb.    
-- **Back-end**: Spring boot, JDK 24.
-
-#### [GitHub](https://github.com/trqr)
-
-## 🚀 Objectifs
-
-- Approfondir mes connaissances en développement web et mobile
-- Travailler sur des projets concrets pour renforcer mes compétences
-- Intégrer une entreprise pour un stage de 2 mois en septembre
-
-## 📫 Me contacter
-
-- **Email :** tristanqr@gmail.com
-- **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/tmartin1989/)
-
-- **Mon CV :** [CV](../CVTristanMartin.pdf)
-
+<a href="https://github.com/trqr"><img width=120px src="./logo/github.png"></a>
+<a href="https://www.linkedin.com/in/tmartin1989"><img width=120px src="./logo/linkdin.png"></a>
+<a href="../CVTristanMartin.pdf"><img width=120px src="./logo/CV.png"></a>
 
 # Formation Développeur Web et Web Mobile du 25 Mars 2025 au 15 Janvier 2026
 
