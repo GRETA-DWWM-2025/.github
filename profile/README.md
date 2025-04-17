@@ -2,6 +2,12 @@
 # Alexandre Dulon
 > Huzzah! I am a box of culture.
 vous pouver consulter mon linkedin
+[Linkedin](https://www.linkedin.com/in/alexandre-dulon-8777901a0/) 
+[gitHub](https://github.com/norstroph)
+
+[Cv](../Cv_alexandredu.pdf)
+
+
 
 # Killian Bastard-Lahoreau
  Développeur Web et Web mobile  
