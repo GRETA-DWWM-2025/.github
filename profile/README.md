@@ -1,4 +1,5 @@
 
+
 # Killian Bastard-Lahoreau
 ![profil](https://avatars.githubusercontent.com/u/207696198?s=96&v=4)  
 Je suis actuellement en reconversion depuis mars 2025 afin de devenir développeur web.
@@ -16,30 +17,30 @@ Je suis actuellement en reconversion depuis mars 2025 afin de devenir développe
 <a href="../CVkillian.pdf"><img width=120px src="cv.png"></a>
 
 
-# Fichier profile
+# Alexis Moreau
+<img src= "https://alexis-moreau.fr/img/PhotoAlexis.jpg" width="150"/>
+# [Alexis Moreau](https://www.linkedin.com/in/alexismoreau37/)
 
 
-## Projet git
-![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
-![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
-![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
-![badge](https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=white&color=%234169E1)
-![badge](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=white&color=%232496ED)
-![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
-![badge](https://img.shields.io/badge/D3js-white?logo=d3&logoColor=white&color=%23F9A03C)
-![badge](https://img.shields.io/badge/JSON-white?logo=json&logoColor=white&color=%23000000)
 
-Mariam
-[LinkedIn](https://www.linkedin.com/in/mariam-nzeyimana/)
-[github](https://github.com/MariamNze)
+<br>
+<p>Je m'appelle Alexis Moreau, j'ai 33 ans et je vis à Tours (37)
 
-![profile](https://avatars.githubusercontent.com/u/206724389?s=96&v=4)
+Je suis passionné par le domaine du numérique et je suis en train de suivre une formation de développeur web et web mobile au GRETA Centre Val De Loire pour obtenir un titre professionnel Bac +2.
 
-![badge](https://img.shields.io/badge/linkedin-white?logo=json&logoColor=white&color=%23000000)
+Je suis déterminé et motivé à mettre en pratique mes connaissances dans un cadre professionnel.
 
+En raison de mon intérêt pour les langages de programmation, je suis constamment motivé à apprendre et à m'impliquer dans des projets visant à développer mes compétences.</p>
 
-greta
-yousra 
-https://www.linkedin.com/in/yousra-lahdar-53507635b/
-https://github.com/Yousra-Lahdar
+## Projets
 
+<ul>
+	<li><a href="https://alexis-moreau.fr/Index.html" target="_blank">Projet site CV</a></li>
+	<li>Projet à venir</li>
+</ul>
+
+## Compétences
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
