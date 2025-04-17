@@ -4,7 +4,7 @@
 # Killian Bastard-Lahoreau
 <img width=150px src="download.jpeg">
 
-Je suis passionné de develppement web. Je suis motivé à coder.
+Je suis passionné de develppement web. En reconversion depuis mars 2025, Je suis motivé à coder.
 
 ## 📄Projets :
 <a href="https://alexandredelsol.github.io/">Mon cv version html</a>
