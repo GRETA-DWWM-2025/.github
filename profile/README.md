@@ -1,7 +1,12 @@
 
 
+
+# Killian Bastard-Lahoreau
+<img width=150px src="download.jpeg">
+
 # Alexandre DELSOL
 <img width=150px src="./CVAlex.png" style="border-radius: 50%;">
+
 
 Je suis passionné de develppement web. Je suis motivé à coder.
 ## 📄Projets :
@@ -17,6 +22,7 @@ Je suis passionné de develppement web. Je suis motivé à coder.
 <a href="https://www.linkedin.com/in/alexandre-delsol-66530035b/"><img width=120px src="linkedin.png"></a>
 <a href="medias/CVAlexandreDELSOL.pdf"><img width=120px src="cv.png"></a>
 =======
+
 
 # Formation Développpeur Web et Web Mobile du 25 mars 2025 au 15 janvier 2026
 
