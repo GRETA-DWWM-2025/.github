@@ -1,7 +1,7 @@
 
 
 # Tristan Martin
-<img style="border-radius: 50%" width=150px src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_1280.png">
+<img width=150px src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_1280.png">
 
 Je m'appelle **Tristan Martin** et je suis actuellement en reconversion professionnelle. Passionné par l'informatique et les nouvelles technologies, je suis motivé à apprendre et à évoluer dans le domaine du développement.
 
