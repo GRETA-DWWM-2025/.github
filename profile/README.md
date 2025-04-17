@@ -1,23 +1,23 @@
 
 
 # Tristan Martin
-<img width=150px src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_1280.png">
+<img style="border-radius: 50%" width=150px src="https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_1280.png">
 
 Je m'appelle **Tristan Martin** et je suis actuellement en reconversion professionnelle. Passionné par l'informatique et les nouvelles technologies, je suis motivé à apprendre et à évoluer dans le domaine du développement.
 
-## 📄 Projets
+## 📄 Projets :
 
 - Réalisation d’un **CV professionnel** : [lien](https://trqr.github.io/CVFormation/).
 - Création site e-commerce [Crafty Store](https://trqr.github.io/CVFormation/).
 
-## 🛠️ Compétences
+## 🛠️ Compétences :
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 <img height="20px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img height="20px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img height="20px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img height="20px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 
-## 🔗 Liens
+## 🔗 Liens :
 
 <a href="https://github.com/trqr"><img width=120px src="./logo/github.png"></a>
 <a href="https://www.linkedin.com/in/tmartin1989"><img width=120px src="./logo/linkdin.png"></a>
