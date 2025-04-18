@@ -6,7 +6,7 @@ Les apprenants : [Mariam](#mariam-nzeyimana), [Yousra](#lahdar-yousra), [Saïd](
 
 Liste des projets réalisés par les étudiants de la formation [DWWM](https://gretaformation.ac-orleans-tours.fr/formation/titre-professionnel-developpeur-web-et-web-mobile) à [MAME](https://mame-tours.com/).
 
-## Algorithmique 💻📄 (Avril 2025)
+## Algorithmique 🧠💻 (Avril 2025)
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript)
 
