@@ -10,9 +10,9 @@ Liste des projets réalisés par les étudiants de la formation [DWWM](https://g
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript)
 
-**Objectif** : Apprendre les bases de l'algorithmique
+**Objectif** : Apprendre les bases de l'algorithmique.
 
-**Description** : Réaliser des petits programmes en pseudo-code / javascript
+**Description** : Réaliser des petits programmes en pseudo-code / javascript.
 
 ## CV numérique 💻📄 (Avril 2025)
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
@@ -39,7 +39,7 @@ Passionnée par la technologie et le développement web, je suis en pleine recon
 ### 📄 Projets :
 
 <ul>
-	<li><a href="https://github.com/MariamNze/cv-website.git">Mon CV  Numérique</a></li>
+	<li><a href="https://mariamnze.github.io/cv/">Mon CV  Numérique</a></li>
 	<li><a href="https://www.figma.com/design/cd1S2Q8Dz5ioOGL3g18J1g/Pizza?node-id=0-1&t=06A0XhI3ozCO0ncL-1">Figma - Application pour commander des pizzas</a></li>
 </ul>
 
