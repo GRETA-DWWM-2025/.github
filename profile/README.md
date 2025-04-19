@@ -1,4 +1,4 @@
-<img src="../profile.png" width="150"/>
+<img src="medias/mariam.png" width="150"/>
 
 👋 Bonjour ! Je m'appelle Mariam Nzeyimana.  
 Passionnée par la technologie et le développement web, je suis en pleine reconversion professionnelle pour devenir Développeuse Web.
@@ -6,7 +6,7 @@ Passionnée par la technologie et le développement web, je suis en pleine recon
 ## 📄 Projets :
 
 <ul>
-	<li><a href="https://github.com/MariamNze/cv-website.git">Mon CV  Numérique</a></li>
+	<li><a href="https://mariamnze.github.io/cv/">Mon CV  Numérique</a></li>
 	<li><a href="https://www.figma.com/design/cd1S2Q8Dz5ioOGL3g18J1g/Pizza?node-id=0-1&t=06A0XhI3ozCO0ncL-1">Figma - Application pour commander des pizzas</a></li>
 </ul>
 
@@ -19,6 +19,6 @@ Passionnée par la technologie et le développement web, je suis en pleine recon
 ![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
 
 ## 🔗 Liens :
-<a href="https://github.com/MariamNze"><img width=120px src="../github.png"></a>
-<a href="https://www.linkedin.com/in/mariam-nzeyimana/"><img width=120px src="../linkedin.png"></a>
-<a href="../cv-mariam.pdf"><img width=120px src="../cv.png"></a>
+<a href="https://github.com/MariamNze"><img width=120px src="logo/github.png"></a>
+<a href="https://www.linkedin.com/in/mariam-nzeyimana/"><img width=120px src="logo/linkedin.png"></a>
+<a href="medias/cv-mariam.pdf"><img width=120px src="logo/cv.png"></a>
