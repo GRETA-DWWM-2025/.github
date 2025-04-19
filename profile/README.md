@@ -54,7 +54,7 @@ Passionnée par la technologie et le développement web, je suis en pleine recon
 ## 🔗 Liens :
 <a href="https://github.com/MariamNze"><img width=120px src="logo/github.png"></a>
 <a href="https://www.linkedin.com/in/mariam-nzeyimana/"><img width=120px src="logo/linkedin.png"></a>
-<a href="medias/cv-mariam.pdf"><img width=120px src="logo/cv.png"></a>
+<a href="medias/cv-mariam.pdf"><img width=120px src="logo/CV.png"></a>
 
 <!-- ************************************************************* -->
 
