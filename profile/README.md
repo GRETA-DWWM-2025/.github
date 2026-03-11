@@ -176,18 +176,47 @@ En raison de mon intérêt pour les langages de programmation, je suis constamme
 ## Alexandre DELSOL
 <img width=150px src="./CVAlex.png" style="border-radius: 50%;">
 
-Je suis passionné de develppement web. Je suis motivé à coder.
 ## 📄Projets :
-<a href="https://alexandredelsol.github.io/">Mon cv version html</a>
+
+[Mon portfolio](https://alexandre-delsol-dev-portfolio.vercel.app/)
+
+
+<img width="250px" alt="portfoliodelsol" src="https://github.com/user-attachments/assets/5fcb79c3-401b-4be0-ad47-34c7afa7661a" />
+
 
 ## 🛠️Compétences :
+### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ## 🔗Liens :
 
-<a href="https://github.com/Alexandredelsol"><img width=120px src="github.png"></a>
-<a href="https://www.linkedin.com/in/alexandre-delsol-66530035b/"><img width=120px src="linkedin.png"></a>
+
+
+<a href="https://github.com/alexandre-delsol"><img width=120px src="github.png"></a>
+<a href="https://www.linkedin.com/in/alexandre-delsol/"><img width=120px src="linkedin.png"></a>
 <a href="medias/CVAlexandreDELSOL.pdf"><img width=120px src="cv.png"></a>
 
 <!-- ************************************************************* -->
